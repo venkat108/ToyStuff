@@ -7,7 +7,7 @@ public class ToyComponent : MonoBehaviour {
 	 public Texture2D Dude;
 	 public GUIText DudeName = new GUIText();	
 	
-	//divya changed
+	//changed by me
     
     void Start() {
 		
