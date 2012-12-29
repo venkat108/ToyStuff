@@ -7,7 +7,7 @@ public class Toy_Stuff : MonoBehaviour {
 	{		
 	  ShowStuff();    
 	}
-	
+	//tpy stuff edited
 	//http://docs.unity3d.com/Documentation/Manual/InstantiatingPrefabs.html
 	
 	Texture2D texture;
