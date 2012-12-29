@@ -1,7 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToyComponent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Toy_Stuff.cs">
     <Files>
+      <File FileName="Assets\Toy_Stuff.cs" Line="10" Column="20" />
       <File FileName="Assets\ToyComponent.cs" Line="10" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
